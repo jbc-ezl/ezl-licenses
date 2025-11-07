@@ -1,4 +1,4 @@
-Email	Type	licenseKey	RegDate	ExpiryDate	BASIC1	BASIC2	PREMIUM1	PREMIUM2	PRO1	PRO2	
-jbc@jbcook.ca	F	HHX616F	2025-11-07	73050	1	1	0	0	0	0	HHX616F,jbc@jbcook.ca,2025-11-07,2099-12-31,Active,F,Free,1,1,0,0,0,0,2025-11-07
-tkjcabot@yahoo.co.uk	A	KBM912A	2025-11-06	46332	1	1	1	1	1	1	KBM912A,tkjcabot@yahoo.co.uk,2025-11-06,2026-11-06,Active,A,Annual,1,1,1,1,1,1,2025-11-07
-TEST@gmail.com	f	PXF904f	2025-11-06	73050	1	1	0	0	0	0	PXF904f,TEST@gmail.com,2025-11-06,2099-12-31,Active,f,Free,1,1,0,0,0,0,2025-11-07
+LicenseKey,Email,RegistrationDate,ExpiryDate,Status,Type,AccessLevel,CAT,INV001,EXP001,LastUsed
+TEST123F,test@email.com,2024-01-25,2099-12-31,Active,F,Free,1,1,1,2024-01-25
+MON456M,monthly@email.com,2024-01-25,2024-02-25,Active,M,Monthly,1,1,1,2024-01-25
+ANN789A,annual@email.com,2024-01-25,2025-01-25,Active,A,Annual,1,1,1,2024-01-25
